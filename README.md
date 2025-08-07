@@ -2,7 +2,7 @@
 	<img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KICAgIDxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgODAwIDIwMCI+CiAgICAgICAgPGRlZnM+CiAgICAgICAgICAgIDxsaW5lYXJHcmFkaWVudCBpZD0iYmctZ3JhZGllbnQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPgogICAgICAgICAgICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3R5bGU9InN0b3AtY29sb3I6IzQxNThEMDtzdG9wLW9wYWNpdHk6MSIgLz4KICAgICAgICAgICAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdHlsZT0ic3RvcC1jb2xvcjojQzg1MEMwO3N0b3Atb3BhY2l0eToxIiAvPgogICAgICAgICAgICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdHlsZT0ic3RvcC1jb2xvcjojRkZDQzcwO3N0b3Atb3BhY2l0eToxIiAvPgogICAgICAgICAgICA8L2xpbmVhckdyYWRpZW50PgogICAgICAgICAgICA8ZmlsdGVyIGlkPSJzaGFkb3ciPgogICAgICAgICAgICAgICAgPGZlRHJvcFNoYWRvdyBkeD0iMCIgZHk9IjQiIHN0ZERldmlhdGlvbj0iNCIgZmxvb2Qtb3BhY2l0eT0iMC4yNSIgLz4KICAgICAgICAgICAgPC9maWx0ZXI+CiAgICAgICAgPC9kZWZzPgogICAgICAgIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iMjAwIiBmaWxsPSJ1cmwoI2JnLWdyYWRpZW50KSIgcng9IjE1IiByeT0iMTUiLz4KICAgICAgICA8dGV4dCB4PSI0MDAiIHk9IjEwMCIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjQ4IgogICAgICAgIGZvbnQtd2VpZ2h0PSJib2xkIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBkb21pbmFudC1iYXNlbGluZT0ibWlkZGxlIgogICAgICAgIGZpbGw9IiNGRkZGRkYiIGZpbHRlcj0idXJsKCNzaGFkb3cpIj5USEUtTElCUkFSSUFOLUdBTUU8L3RleHQ+CiAgICA8L3N2Zz4=" alt="the-librarian-game-banner" width="800">
 </p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ "The Librarian Game" is a text-based adventure where you play as a librarian searching for a specific book. Navigate the library by making choices that shape the story. Your decisions determine the outcome in this interactive web-based game. </code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/Astro-Saurav/the-librarian-game?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -37,13 +37,17 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ "The Librarian Game" is an interactive, text-based adventure game developed using HTML, CSS, and JavaScript. The player takes on the role of a librarian in search of a specific book within the library. The game presents players with a series of choices, and the narrative unfolds based on the decisions made, leading to different outcomes. The objective is to successfully navigate the library and find the book. </code>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯ Interactive Storyline: The game's narrative is driven by the player's choices, offering an engaging and interactive experience.
+Branching Paths: Multiple-choice options lead to different scenarios and endings, adding replay value.
+Simple User Interface: It features a clean and straightforward interface, focusing on the text-based narrative.
+Web-Based Gameplay: Built with fundamental web technologies, the game can be easily played in any modern web browser without the need for installation.
+Responsive Design: The game is designed to be accessible and playable on various devices, including desktops and mobile phones.</code>
 
 ---
 
