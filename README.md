@@ -4,7 +4,9 @@
 <p align="center">
 	<em><code>❯ "The Librarian Game" is a text-based adventure where you play as a librarian searching for a specific book. Navigate the library by making choices that shape the story. Your decisions determine the outcome in this interactive web-based game. </code></em>
 </p>
-[game](https://the-librarian-game-ebon.vercel.app)
+	
+[Game](https://the-librarian-game-ebon.vercel.app/)
+	
 <p align="center">
 	<img src="https://img.shields.io/github/license/Astro-Saurav/the-librarian-game?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Astro-Saurav/the-librarian-game?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
