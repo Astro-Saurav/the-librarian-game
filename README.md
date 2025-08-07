@@ -150,7 +150,7 @@ Run the-librarian-game using the following command:
 **Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
 
 ```sh
-❯ npm start
+❯ npm srun dev
 ```
 
 
@@ -174,11 +174,7 @@ Run the test suite using the following command:
 
 ## 🔰 Contributing
 
-- **💬 [Join the Discussions](https://github.com/Astro-Saurav/the-librarian-game/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/Astro-Saurav/the-librarian-game/issues)**: Submit bugs found or log feature requests for the `the-librarian-game` project.
-- **💡 [Submit Pull Requests](https://github.com/Astro-Saurav/the-librarian-game/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-
-<details closed>
+<details open>
 <summary>Contributing Guidelines</summary>
 
 1. **Fork the Repository**: Start by forking the project repository to your github account.
@@ -218,11 +214,5 @@ Run the test suite using the following command:
 ## 🎗 License
 
 This project is protected under the [MIT-LICENSE](https://github.com/Astro-Saurav/the-librarian-game?tab=MIT-1-ov-file)
-
----
-
-## 🙌 Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
 
 ---
