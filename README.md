@@ -1,5 +1,4 @@
 <div align="left" style="position: relative;">
-<img src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>THE-LIBRARIAN-GAME</h1>
 <p align="center">
 	<em><code>❯ "The Librarian Game" is a text-based adventure where you play as a librarian searching for a specific book. Navigate the library by making choices that shape the story. Your decisions determine the outcome in this interactive web-based game. </code></em>
