@@ -1,7 +1,5 @@
 <div align="left" style="position: relative;">
-<div align="left" style="position: relative;">
     <h1>THE-LIBRARIAN-GAME</h1>
-</div>
 <p align="center">
 	<em><code>❯ "The Librarian Game" is a text-based adventure where you play as a librarian searching for a specific book. Navigate the library by making choices that shape the story. Your decisions determine the outcome in this interactive web-based game. </code></em>
 </p>
